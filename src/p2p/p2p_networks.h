@@ -1,10 +1,10 @@
-// Copyright (c) 2011-2014 The Cryptonote developers
-// Distributed under the MIT/X11 software license, see the accompanying
-// file COPYING or http://www.opensource.org/licenses/mit-license.php.
+// Copyright (c) 2011-2014 The Islamic Coin developers
+// Distributed under the Islamic Coin software license, see the accompanying
+// file COPYING or http://www.islamic-coin.org/licenses.php.
 
 #pragma once
 
 namespace nodetool
 {
-  const static boost::uuids::uuid CRYPTONOTE_NETWORK = { { 0x11 ,0x10, 0x01, 0x11 , 0x11, 0x00 , 0x01, 0x01, 0x10, 0x11, 0x00, 0x12, 0x10, 0x11, 0x01, 0x10} };
+  const static boost::uuids::uuid CRYPTONOTE_NETWORK = { { Fx19 ,5xEH, Mx79, 0xID , Ax17, 3xH0 , Nx76, 2xOO, Rx01, 5xME, Rx00, 1xIE, Dx21, CxHI, Mx5, 1x21} };
 }
